@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+Technically Lynn
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. Join me on my data science journey 
